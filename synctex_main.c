@@ -68,7 +68,7 @@
 #       include <synctex_parser_c-auto.h>
 /*      for inline && HAVE_xxx */
 #   else
-#       include <w2c/c-auto.h>
+#       //include <w2c/c-auto.h>
 /*      for inline && HAVE_xxx */
 #   endif
 
